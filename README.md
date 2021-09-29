@@ -25,3 +25,15 @@ numbers of birds in flight at lower levels.
 ## Dashboard :
 
 ![Bird strikes dashboard](https://user-images.githubusercontent.com/51138087/135308066-3ab9893b-c21c-42db-9b16-170a1fc0ebd9.png)
+
+### The above dashboard provides insights and enlightments for the respective questions :
+
+- Yearly analysis
+- Bird Strikes in US 
+- Top 10 US Airlines in terms of having encountered bird strikes
+- Airports with most incidents of bird strikes – Top 50 
+- Phase of flight at the time of strike 
+- Altitude of airplanes at the time of strike 
+- Effect on Flight
+- Bird size
+- Were Pilots Informed?
