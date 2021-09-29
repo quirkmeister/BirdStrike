@@ -24,3 +24,4 @@ numbers of birds in flight at lower levels.
 
 ## Dashboard :
 
+![Bird strikes dashboard](https://user-images.githubusercontent.com/51138087/135308066-3ab9893b-c21c-42db-9b16-170a1fc0ebd9.png)
